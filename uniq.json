@@ -1,1 +1,1 @@
-{"id":"d961c535-0949-44a3-9071-53a5df5e6718","ingredients":[{"amount":1.0,"name":"gousses d'ail","unit":"each"},{"name":"huile d'olive","unit":"cc"},{"name":"jaune d'oeuf"}],"name":"Aioli","steps":[]}
+{"id":"d961c535-0949-44a3-9071-53a5df5e6718","ingredients":[{"amount":1.0,"name":"gousses d'ail","unit":""},{"amount":200.0,"name":"huile d'olive","unit":"ml"},{"amount":1.0,"name":"jaune d'oeuf"}],"name":"Aioli","steps":[]}
